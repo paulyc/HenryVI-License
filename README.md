@@ -3,5 +3,5 @@ A not-so-simple free/open-source software license similar to MIT/BSD type of lic
 
 Also more precise use of terminology as defined in the US Code (I live here that's all I know about) and international copyright treaties, especially important in this day and age where the letter of the law is 99.9% more important than its spirit...
 
-== Origin of Name ==
+## Origin of Name
 I figured the "Let's Kill All the Lawyers" license wouldn't end up going over too well with said judge...But it occurred to me that the goal of this license is basically treat your code like Shakespeare; we know Shakespeare wrote and made a living off his plays, you can't blatantly copypasta rip him off without everyone knowing that it was Shakespare, but now he's long dead and gone and the fact that he wrote it surely doesn't entitle his current living descendants to further royalties as Disney would still be in 500 years for copies of Steamboat Willie if they had their way, it's in the public domain as it should be and you can do what you want, but the problem with "releasing things into the public domain" rather than a copyright notice and a license to all rights in perpetuity is that anyone in the world can rip it off and claim it as their own work, see the Satoshi Nakamoto whitepaper....
