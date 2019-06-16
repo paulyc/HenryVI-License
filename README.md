@@ -1,5 +1,7 @@
 Copyright (C) 2019 Paul Ciarlo
 
+Licensed under the terms of the Shakespearean License; see https://github.com/paulyc/ShakespeareanLicense/blob/master/LICENSE
+
 # Shakespearean License
 A not-so-simple free/open-source software license similar to MIT/BSD type of licenses but with better legalese such that it won't be as easy to read but it will make more sense to a judge should some "enterprising" attorney decide to try driving a truck through some potential loopholes as has been tried before eg. the UW Pine case, where not only there was an attempt to abuse copyright legalese but also trademarks; patent vs. copyright abuses are in the spotlight but few people think about trademarks and in my non-professional opinion (I'm not a lawyer I just play one on TV) a lot of typical non-endorsement clauses could be abused in regards to trademarks, which are required to be actively defended or you lose them unlike copyrights...
 
