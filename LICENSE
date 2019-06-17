@@ -31,9 +31,25 @@ to any person, legally incorporated entity, or other individual or organization 
     of this work performed publicly by means of a digital audio transmission.
 
 (2) in the case of works that are computer programs as defined in 17 USC 101, all provisions of this License shall
-    apply to any partial or complete expression of the source or object (binary) forms of this work. For the
-    purposes of this License, object code shall be defined and presumed to be copyrightable forms of this work pursuant
-    to the opinion of the United States Third Circuit Court of Appeals in Apple Computer, Inc. v. Franklin Computer 
-    Corporation (714 F.2d 1240, 219 USPQ 113) or to any subsequent precedential opinion of any court in any jurisdiction
-    or to any Act of Congress; and any permanent, transient, or incidental copies of this work as defined in 17 USC 117
-    shall be included in any grant of rights by the License.
+    apply to any partial or complete expression of the source or object (binary) forms of this work
+    
+    (A) object (binary) code shall be defined and presumed to be copyrightable forms of this work pursuant to the opinion of
+        the United States Third Circuit Court of Appeals in Apple Computer, Inc. v. Franklin Computer Corporation
+        (714 F.2d 1240, 219 USPQ 113), or to any subsequent overriding precedential opinion of a court in any specific 
+        jurisdiction or any overriding Act of Congress; and
+        
+    (B) for the purpose of the grant of rights provided by this License, any permanent, transient, or incidental copies of
+        this work as defined in 17 USC 117 shall be considered equivalent copies
+    
+(3) the work is provided as is, where is, with all faults, without warranty or guarantee of fitness for any use or purpose
+
+    (A) the owner or owners of the Copyright of this work, jointly and severally, do not make, and expressly disclaim,
+        any representation or warranty of any kind, express or implied, either in fact or in operation by law, by statute
+        or otherwise, including, but not limited to, warranties or representations of quality, merchantability, fitness for
+        a particular use or purpose, and noninfringement; and
+        
+    (B) in no event shall the owner or owners of the Copyright of this work, jointly or severally, be held primarily,
+        strictly, absolutely, vicariously, or in any other manner liable for any claim, damages or other liability, in an 
+        action of contract, tort or otherwise, arising from, out of, or in connection with the work or the use or other
+        dealings in the work, including any claim of patent or trademark infringement for any action taken in the sole
+        exercise of the rights provided by this License
